@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Interpolation</string>
+    <string name="calculate">        Calculate        </string>
+    <string name="find_at">Find the unknown value of y at x = </string>
+    <string name="invalid_entries">Please enter all the entries!</string>
+    <string name="delete_history">Do you want to delete history? It will be deleted from database also!</string>
+    <string name="check">  Find maximum and minimum values also?</string>
+
+    <string-array name="methods_list">
+        <item>Newton Forward Formula</item>
+        <item>Newton Backward Formula</item>
+        <item>Gauss Forward Formula</item>
+        <item>Gauss Backward Formula</item>
+        <item>Stirling Formula</item>
+        <item>Lagrange Formula</item>
+        <item>Aitkhen Formula</item>
+    </string-array>
+</resources>
